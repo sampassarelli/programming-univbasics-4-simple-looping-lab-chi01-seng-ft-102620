@@ -18,5 +18,6 @@ end
   
 def output_array (array)
   count = 0 
-  while count < 
+  while array[count] do
+    
   
